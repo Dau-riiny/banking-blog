@@ -1,0 +1,14 @@
+body{
+    background-color:#777777;
+    margin:0;
+}
+.tittles{
+font-size: 40px;
+background-color: aquamarine;
+font-family: Comic;
+box-shadow: 40px;
+transform: rotate 40px;
+justify-content: center;
+text-align: center;
+
+}
